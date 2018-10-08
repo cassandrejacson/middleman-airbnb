@@ -1,0 +1,48 @@
+AntoineTorrini:
+  name: "Antoine's home"
+  description: "Amazing room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  bed_type: "Real bed"
+  property_type: "Apartment"
+  room_type: "entire app"
+  bedrooms: 2
+  beds: 4
+  accomodates: 2
+  bathrooms: 1
+  welcome_drink: true
+  wifi: false
+  tv: true
+  rating: 4
+cassandrejacson:
+  name: "Cassandre's home"
+  description: "Incredible view flat in Tokyo"
+  city_name: "Tokyo, Japan"
+  accomodates: 3
+  city_slug: "tokyo"
+  bed_type: "Real bed"
+  property_type: "Apartment"
+  room_type: "entire app"
+  bedrooms: 4
+  beds: 8
+  bathrooms: 1
+  welcome_drink: false
+  wifi: true
+  tv: false
+  rating: 3
+RubenGueunoun:
+  name: "Ruben's home"
+  description: "Great house in London"
+  city_name: "London, UK"
+  city_slug: "london"
+  bed_type: "Real bed"
+  property_type: "House"
+  room_type: "entire app"
+  bedrooms: 5
+  beds: 10
+  bathrooms: 2
+  accomodates: 2
+  welcome_drink: true
+  tv: false
+  wifi: true
+  rating: 5

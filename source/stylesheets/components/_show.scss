@@ -1,0 +1,65 @@
+.container {
+  background-color: white;
+  background-size: 100%;
+  color: $black;
+  border-top: $black;
+  font-size: 13px;
+  margin: none;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: $body-font;
+  padding: none;
+
+}
+
+.description {
+  background-color: $blue;
+  opacity: 0.2;
+  background-size: 100%;
+  width: 100%;
+  margin: none;
+  font-family: $body-font;
+  padding: none;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.headers {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+form {
+  display: block;
+  background-color: $blue;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+
+ul {
+  list-style: none;
+}
+
+.row {
+margin-left: 70px;
+margin-right: 70px;
+text-align: inline;
+}
+
+.center-block {
+  background-position: center;
+}
+
+
+
+.img-circle {
+  height: 50px;
+  width: 50px;
+}
+
+
